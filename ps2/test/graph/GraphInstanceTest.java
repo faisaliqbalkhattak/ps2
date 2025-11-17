@@ -3,13 +3,14 @@
  */
 package graph;
 
+
+import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
-
-import org.junit.Test;
 
 public abstract class GraphInstanceTest {
     
